@@ -7,8 +7,8 @@ Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [codewith2k](http://https://codewith2k.netlify.app/)
 * ✉️  You can contact me at [gangadhar2k.official@gmail.com](mailto:gangadhar2k.official@gmail.com)
-* 🧠  I'm learning Nodejs
-* 🤝  I'm open to collaborating on Reactjs
+* 🧠  I'm learning Spring boot
+* 🤝  I'm open to collaborating on Reactjs and Spring Boot
 * ⚡  I'm secretly superman... but don't tell to anyone
 
 <a href="https://www.github.com/Gangadhar2k" target="_blank" rel="noreferrer"><img
